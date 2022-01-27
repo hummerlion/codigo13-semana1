@@ -56,3 +56,11 @@ git checkout -b nombre del branch
 
 ``` 
 git merge
+
+
+```
+git fetch
+```
+- Actualiza cambios en la rama pero referente a nuevas ramas creadas
+
+git branch -d  -d elimina 
