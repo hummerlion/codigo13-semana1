@@ -53,3 +53,4 @@ git checkout -b nombre del branch
 
 - sirve para  poder moverse entre branchs
 - si el checkout no tiene el -b solo es para moverse entre branch
+ -55555
