@@ -37,3 +37,19 @@ git pull origin main
 ```
 -Se encarga de descargar los cambios de nuestro repositorio en la nube  en  este caso github
 
+```
+git clone
+```
+- descarga toda la carpeta desde github
+ 
+```
+git branch
+```
+- este comando sirve para poder listar los brach que teng localmen ten y me dice en cual me encuestro actulamente 
+
+```
+git checkout -b nombre del branch
+```
+
+- sirve para  poder moverse entre branchs
+- si el checkout no tiene el -b solo es para moverse entre branch
